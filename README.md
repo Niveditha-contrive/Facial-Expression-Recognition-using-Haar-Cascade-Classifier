@@ -1,5 +1,5 @@
 # Facial-Expression-Recognition-using-Haar-Cascade-Classifier
-Facial Group expression Recogniser along with age and gender.
+Facial Group expression Recogniser along with age and gender by using Watson Assistant.
 
 Step 1: The block diagram tells us about the working of our system. When we consider 
 the first three inputs i.e., facial expression , age, gender are trained into a dataset. 
@@ -29,3 +29,5 @@ the face goes to the already build model for prediction.
 In simple words when we run the program the open CV helps to open a webcam which 
 takes the face as input and gives the relevant output using the datasets predicting the 
 facial expression, age, gender respectively.
+
+By performing all the above steps. We have also added one of the IBM services i.e., Watson Assistant which helps in knowing about our project more.
