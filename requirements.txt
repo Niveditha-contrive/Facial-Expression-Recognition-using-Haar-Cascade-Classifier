@@ -393,7 +393,7 @@ requests-toolbelt==0.9.1
 robobrowser==0.5.3
 rocketchat-API==0.6.32
 rope==0.12.0
-rsa==4.0
+rsa==4.1
 ruamel-yaml==0.15.46
 ruamel.yaml==0.15.94
 s3transfer==0.2.0
