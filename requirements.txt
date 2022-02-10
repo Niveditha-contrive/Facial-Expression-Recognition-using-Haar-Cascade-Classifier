@@ -152,7 +152,7 @@ deprecation==2.0.6
 dialogflow==0.6.0
 dill==0.2.9
 distributed==1.26.0
-Django==2.2.3
+Django==2.2.27
 django-cors-headers==3.2.1
 djangorestframework==3.10.3
 dlib==19.17.0
